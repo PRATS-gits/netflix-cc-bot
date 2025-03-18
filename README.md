@@ -19,7 +19,7 @@ This project is a Web Lab practical implementation of an AI-powered Netflix Cust
   - Google Custom Search API for real-time information
   
 ## Demo
-A static demo version of the application is hosted on GitHub Pages. Visit [Netflix Support Chat Demo](https://prats-gits.github.io/netflix-cc-bot/) to try it out.
+A static demo version of the application is hosted on GitHub Pages. Visit [Netflix Support Chat Demo](https://prats-gits.github.io/netflix-cc-bot/static-site/index.html) to try it out.
 
 > **Note**: The demo version uses a simulated backend since GitHub Pages doesn't support Java server-side execution. For the full experience with real AI responses, deploy the application to a Java servlet container like Tomcat.
 
@@ -49,4 +49,3 @@ A static demo version of the application is hosted on GitHub Pages. Visit [Netfl
 4. Deploy to Tomcat:
    ```bash
    ./run.sh
-   
