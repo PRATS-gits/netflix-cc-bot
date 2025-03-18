@@ -1,0 +1,29 @@
+# API Keys and Environment Variables
+.env
+
+# Build artifacts
+build/
+target/
+*.class
+
+# Logs
+logs/
+*.log
+
+# IDE specific files
+.vscode/
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# Dependencies
+node_modules/
+
+# Temporary files
+*~
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
